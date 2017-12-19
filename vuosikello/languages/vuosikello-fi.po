@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fi\n"
+
+msgid "Add new"
+msgstr "Lisää uusi"
+
+msgid "Vuosikello events"
+msgstr "Vuosikello tapahtumat"
+
+msgid "Vuosikello event"
+msgstr "Vuosikello tapahtuma"
+
+msgid "Add new vuosikello event"
+msgstr "Lisää uusi vuosikello tapahtuma"
+
+msgid "New vuosikello event"
+msgstr "Uusi vuosikello tapahtuma"
+
+msgid "Edit vuosikello event"
+msgstr "Muokkaa vuosikello tapahtumaa"
+
+msgid "View vuosikello event"
+msgstr "Tarkastele vuosikello tapahtumaa"
+
+msgid "All vuosikello events"
+msgstr "Kaikki vuosikello tapahtumat"
+
+msgid "Find vuosikello events"
+msgstr "Etsi vuosikello tapahtumia"
+
+msgid "Parent Vuosikello Events:"
+msgstr "Ylemmät vuosikello tapahtumat"
+
+msgid "Vuosikello events not found."
+msgstr "Vuosikello tapahtumia ei löytynyt."
+
+msgid "Vuosikello events not found from trash."
+msgstr "Vuosikello tapahtumia ei löytynyt roskakorista."
+
+msgid "Vuosikello events archive"
+msgstr "Vuosikello tapahtumien arkisto"
+
+msgid "Add into vuosikello event"
+msgstr "Lisää vuosikello tapahtumaan"
+
+msgid "Uploaded to this Vuosikello Event"
+msgstr "Lisätty tähän vuosikello tapahtumaan"
+
+msgid "Filter Vuosikello Events list"
+msgstr "Suodata vuosikello tapahtumien listaa"
+
+msgid "Vuosikello Events list navigation"
+msgstr "Vuosikello tapahtumien listan navigointi"
+
+msgid "Vuosikello Events list"
+msgstr "Vuosikello tapahtumien listaus"
+
+msgid "Vuosikello example option"
+msgstr "Vuosikello esimerkki vaihtoehto"
+
+msgid "General"
+msgstr "Yleiset"
+
+msgid "Vuosikello settings"
+msgstr "Vuosikello asetukset"
+
+msgid "Categories"
+msgstr "Kategoriat"
+
+msgid "Category"
+msgstr "Kategoria"
+
+msgid "Find categories"
+msgstr "Etsi kategorioita"
+
+msgid "Popular categories"
+msgstr "Suosittuja kategorioita"
+
+msgid "All categories"
+msgstr "Kaikki kategoriat"
+
+msgid "Edit category"
+msgstr "Muokkaa kategoriaa"
+
+msgid "Update category"
+msgstr "Päivitä kategoria"
+
+msgid "Add new category"
+msgstr "Lisää uusi kategoria"
+
+msgid "Add category name"
+msgstr "Lisää kategorian nimi"
+
+msgid "Separate categories with comma"
+msgstr "Erottele kategoriat pilkulla"
+
+msgid "Add or remove categories"
+msgstr "Lisää tai poista kategorioita"
+
+msgid "Choose from most used categories"
+msgstr "Valitse käytetyimmistä kategorioista"
+
+msgid "Event category"
+msgstr "Tapahtuman kategoria"
+
+msgid "Category 1"
+msgstr "Kategoria"
+
+msgid "Category 2"
+msgstr "Kategoria"
+
+msgid "Toggle text"
+msgstr "Tekstin vaihto päälle/pois"
+
+msgid "Event name:"
+msgstr "Tapahtuman nimi:"
+
+msgid "Event description:"
+msgstr "Tapahtuman kuvaus"
+
+msgid "Starts:"
+msgstr "Alkaa:"
+
+msgid "Ends:"
+msgstr "Loppuu:"
+
+msgid "Refresh"
+msgstr "Päivitä"
